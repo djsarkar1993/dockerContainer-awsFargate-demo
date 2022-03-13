@@ -3,8 +3,10 @@
 <hr>
 <p>
 <b>Input:</b><br>
-`$ export RUNTIME_ARGS="{\"num\": [1,2,3,4], \"square\": [1,4,9,16], \"cube\": [1,8,27,64]}"`<br>
-`$ python3 user_app.py`
+<pre> 
+$ export RUNTIME_ARGS="{\"num\": [1,2,3,4], \"square\": [1,4,9,16], \"cube\": [1,8,27,64]}"
+$ python3 user_app.py
+</pre>
 </p>
 <hr>
 <p>
