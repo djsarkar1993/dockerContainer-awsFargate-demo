@@ -1,0 +1,2 @@
+## Creating the user application
+This directory contains the source code of a simple Python application that accepts inputs from the OS environment variables. It then displays the inputs as a Pandas data frame after 30 seconds.
