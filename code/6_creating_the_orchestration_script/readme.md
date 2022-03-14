@@ -101,5 +101,5 @@ message
 </p>
 <hr>
 <p>
-<i>Note: In the above script the AWS account id has been censored to prevent it disclosure. Kindly set an appropriate "aws_account_id" value before using this script._</i>
+<i>Note: In the above script the AWS account id has been censored to prevent it disclosure. Kindly set an appropriate "aws_account_id" value before using this script.</i>
 </p>
