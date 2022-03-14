@@ -45,7 +45,7 @@ def create_ecs_task_definition(ecs_client, cwLogs_client, task_definition_name, 
 # Main
 if __name__ == '__main__':
     # The AWS account id
-    # Kindly note that the account id has censored to prevent it disclosure. 
+    # Kindly note that the account id has been censored to prevent it disclosure. 
     # Kindly set an appropriate "aws_account_id" value before using these commands.
     aws_account_id = ''
 
