@@ -3,6 +3,7 @@
 
 ### Custom ignore rules ###
 *docx
+doc/OCU22-50*
 
 ### JupyterNotebooks ###
 # gitignore template for Jupyter Notebooks
